@@ -1,0 +1,26 @@
+[Unit]
+Description=Bluecoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=bluecoin
+Group=bluecoin
+
+Type=forking
+PIDFile=/var/lib/bluecoind/bluecoind.pid
+
+ExecStart=/usr/bin/bluecoind -daemon -pid=/var/lib/bluecoind/bluecoind.pid \
+          -conf=/etc/bluecoin/bluecoin.conf -datadir=/var/lib/bluecoind
+
+ExecStop=-/usr/bin/bluecoin-cli -conf=/etc/bluecoin/bluecoin.conf \
+         -datadir=/var/lib/bluecoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

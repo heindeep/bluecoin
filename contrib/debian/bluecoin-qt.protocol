@@ -1,0 +1,11 @@
+[Protocol]
+exec=bluecoin-qt '%u'
+protocol=bluecoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
