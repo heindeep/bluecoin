@@ -158,7 +158,7 @@ public:
         nZerocoinStartTime = 2147483647; // Tuesday, January 19, 2038 3:14:07 AM
 
         // DNS Seeders maintaining a dynamic list of active nodes
-        
+        vSeeds.push_back(CDNSSeedData("51.75.64.158", "51.75.64.158"));
 
         // Base58prefixes Information:  https://en.bitcoin.it/wiki/List_of_address_prefixes      
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 25);   //B  
