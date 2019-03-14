@@ -52,7 +52,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 35
 
 #define QAPP_ORG_NAME "Bluecoin"
-#define QAPP_ORG_DOMAIN "snode.co"
+#define QAPP_ORG_DOMAIN "www.bluecoin.de"
 #define QAPP_APP_NAME_DEFAULT "Bluecoin-Qt"
 #define QAPP_APP_NAME_TESTNET "Bluecoin-Qt-testnet"
 
