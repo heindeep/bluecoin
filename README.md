@@ -45,7 +45,7 @@
 </tbody>
 <tbody>
 	<tr><th>POW Presale Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Miners</th></tr>	
-	<tr>Ongoing<td</td><td>15 - 1 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
+	<tr><td>Ongoing</td><td>15 - 1 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
 </tbody>
 </table>
 
