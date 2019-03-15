@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/snodeco/bluecoin.detached-sigs.git"
+- "url": "https://github.com/heindeep/bluecoin.detached-sigs.git"
   "dir": "signature"
 files:
 - "bluecoin-osx-unsigned.tar.gz"

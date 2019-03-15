@@ -1,5 +1,5 @@
 ---
-name: "bluecoin-linux-3.1.0"
+name: "bluecoin-linux-1.0.0"
 enable_cache: true
 sudo: true
 suites:
@@ -29,9 +29,9 @@ packages:
 - "ca-certificates"
 - "python"
 - "xutils-dev"
-reference_datetime: "2019-01-25 10:00:00"
+reference_datetime: "2019-03-01 10:00:00"
 remotes:
-- "url": "https://github.com/snodeco/snode-coin.git"
+- "url": "https://github.com/heindeep/bluecoin.git"
   "dir": "bluecoin"
 files: []
 script: |
