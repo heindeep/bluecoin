@@ -32,7 +32,7 @@
 	<tr><td>Max Coin Supply</td><td>50 000 000 BLUE</td></tr> 
 	<tr><td>Premine</td><td>1 500 000 BLUE</td></tr>
 	<tr><td>Halving factor</td><td>Every 350 400 Blocks</td></tr>
-	<tr><td>Masternode Collateral</td><td>5 000 BLUE</td></tr>
+	<tr><td>Masternode Collateral</td><td>10 000 BLUE</td></tr>
 	<tr><td>Masternode Reward</td><td>80 BLUE</td></tr>
 </tbody>
 </table>
@@ -44,32 +44,16 @@
 	<tr><td>Ended</td><td>1 - 15</td><td>100 000 BLUE</td><td>1 500 000 BLUE</th></tr>
 </tbody>
 <tbody>
-	<tr><th>Kickstart Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Miners</th></tr>	
-	<tr><td>Ended</td><td>16 - 5 000</td><td>0.001 BLUE</td><td>0 BLUE</td><td>0.001 BLUE</td></tr>
-</tbody>
-<tbody>
 	<tr><th>POW Presale Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Miners</th></tr>	
-	<tr><td>Ended</td><td>5 001 - 10 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
+	<tr>Ongoing<td</td><td>15 - 1 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
 </tbody>
 </table>
 
 <h3>PoS Rewards Breakdown</h3>
 <table>
 <tbody>
-	<tr><th>POS Presale Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
-	<tr><td>Ongoing</td><td>3 001 - 10 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
-</tbody>
-<tbody>
-	<tr><th>PoS Phase I</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
-	<tr><td></td><td>15 001 - 350 400</td><td>100 BLUE</td><td>80 BLUE</td><td>20 BLUE</td></tr>
-</tbody>
-<tbody>
-	<tr><th>PoS Phase II</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>
-	<tr><td></td><td>350 401 - 700 800</td><td>50 BLUE</td><td>40 BLUE</td><td>10 BLUE</td></tr>
-</tbody>
-<tbody>
-	<tr><th>PoS Phase III</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>
-	<tr><td></td><td>700 801 - </td><td>25 BLUE</td><td>20 BLUE</td><td>10 BLUE</td></tr>
+	<tr><th>POS Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
+	<tr><td></td><td>1 001 - </td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
 </tbody>
 </table>
 

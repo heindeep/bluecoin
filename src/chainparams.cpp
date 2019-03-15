@@ -117,16 +117,16 @@ public:
         nTargetTimespan = 60 * 60; // Bluecoin: 1 hour
         nTargetSpacing = 90;  // Bluecoin: 90 seconds
         nMaturity = 100;  
-        nMasternodeCollateral = 5000; // 5000 BLUE
+        nMasternodeCollateral = 10000; // 10000 BLUE
         nMasternodeCountDrift = 20;
         nMaxMoneyOut =  50000000 * COIN; //50M BLUE
         nSwiftTxMinFee = 0.01 * COIN;   
 
         /** Height or Time Based Activations **/
-        nPresaleStartBlock = 3000; // Presale Start
-        nPresaleEndBlock = 10000; // Presale End 10000 
+        nPresaleStartBlock = 500; // Presale Start
+        nPresaleEndBlock = 1000; // Presale End 1000 
         
-        nLastPOWBlock = 5000; // POW ends at block 5000
+        nLastPOWBlock = 1000; // POW ends at block 5000
         nBlockEnforceSerialRange = 1; //Enforce serial range starting this block
         nBlockRecalculateAccumulators = -1; //Trigger a recalculation of accumulators
         nBlockFirstFraudulent = -1; //First block that bad serials emerged
