@@ -10,7 +10,7 @@
 * @license    This project is released under the MIT license.
 **/
 // Copyright (c) 2017 The PIVX developers
-// Copyright (c) 2018 The Bluecoin developers
+// Copyright (c) 2019 The Bluecoin developers
 #include "Params.h"
 #include "ParamGeneration.h"
 
