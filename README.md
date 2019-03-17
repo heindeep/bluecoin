@@ -59,7 +59,11 @@
 </tbody>
 <tbody>
 	<tr><th>POS Phase II</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
-	<tr><td></td><td>350 400 - 700 800</td><td>50 BLUE</td><td>40 BLUE</td><td>10 BLUE</td></tr>
+	<tr><td></td><td>350 401 - 700 800</td><td>50 BLUE</td><td>40 BLUE</td><td>10 BLUE</td></tr>
+</tbody>
+<tbody>
+	<tr><th>POS Phase III</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
+	<tr><td></td><td>700 801 - </td><td>25 BLUE</td><td>20 BLUE</td><td>10 BLUE</td></tr>
 </tbody>
 </table>
 
