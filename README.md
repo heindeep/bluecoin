@@ -67,4 +67,4 @@
 </tbody>
 </table>
 
-<a href="https://twitter.com/heindeep" title="Bluecoin on Twitter" target="_blank">Visit us on Twitter for more details</a>
+<a href="https://twitter.com/heindeep" title="Bluecoin on Twitter" target="_new">Visit us on Twitter for more details</a>
