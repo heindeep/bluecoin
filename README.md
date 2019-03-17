@@ -15,7 +15,7 @@
 	phase, the most latest PoS protocol, PoS v3.0 is used.
 </p>
 
-<a href="http://51.68.189.168:3001/" title="Bluecoin Explorer" target="_blank">View our Blockexplorer</a>
+<a href="http://51.68.189.168:3001/" title="Bluecoin Explorer" target="_blank" rel="noopener noreferrer">View our Blockexplorer</a>
 
 <h3>BlueCoin Specification</h3>
 <table>
@@ -67,4 +67,4 @@
 </tbody>
 </table>
 
-<a href="https://twitter.com/heindeep" title="Bluecoin on Twitter" target="_new">Visit us on Twitter for more details</a>
+<a href="https://twitter.com/heindeep" title="Bluecoin on Twitter" target="_blank" rel="noopener noreferrer">Visit us on Twitter for more details</a>
