@@ -47,7 +47,7 @@
 </tbody>
 <tbody>
 	<tr><th>POW Presale Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Miners</th></tr>	
-	<tr><td>Ongoing</td><td>15 - 1 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
+	<tr><td>Ended</td><td>15 - 1 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
 </tbody>
 </table>
 
@@ -55,7 +55,7 @@
 <table>
 <tbody>
 	<tr><th>POS Phase I</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
-	<tr><td></td><td>1 001 - 350 400</td><td>100 BLUE</td><td>80 BLUE</td><td>20 BLUE</td></tr>
+	<tr><td>Ongoing</td><td>1 001 - 350 400</td><td>100 BLUE</td><td>80 BLUE</td><td>20 BLUE</td></tr>
 </tbody>
 <tbody>
 	<tr><th>POS Phase II</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
