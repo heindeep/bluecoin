@@ -54,8 +54,8 @@
 <h3>PoS Rewards Breakdown</h3>
 <table>
 <tbody>
-	<tr><th>POS Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
-	<tr><td></td><td>1 001 - </td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
+	<tr><th>POS Phase 1</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Stakers</th></tr>	
+	<tr><td></td><td>1 001 - 350 400</td><td>1000 BLUE</td><td>80 BLUE</td><td>20 BLUE</td></tr>
 </tbody>
 </table>
 
