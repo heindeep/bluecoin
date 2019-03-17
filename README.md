@@ -67,4 +67,4 @@
 </tbody>
 </table>
 
-<a href="https://www.bluecoin.de" title="Bluecoin Website" target="_blank">View our website for more details</a>
+<a href="https://twitter.com/heindeep" title="Bluecoin on Twitter" target="_blank">Visit us on Twitter for more details</a>
