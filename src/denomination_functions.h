@@ -4,11 +4,11 @@
  * @brief      Denomination functions for the Zerocoin library.
  *
  * @copyright  Copyright 2017 PIVX Developers
- * @copyright  Copyright 2018 Bluecoin Developers
+ * @copyright  Copyright 2019 Bluecoin Developers
  * @license    This project is released under the MIT license.
  **/
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2018 The Bluecoin developers
+// Copyright (c) 2019 The Bluecoin developers
 
 #include "reverse_iterate.h"
 #include "util.h"

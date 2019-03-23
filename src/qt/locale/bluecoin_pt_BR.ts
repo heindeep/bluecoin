@@ -3564,8 +3564,8 @@ https://www.transifex.com/bluecoin-project/bluecoin-project-translations</transl
         <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do PIVX Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2018 The Bluecoin Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2018 aos Desenvolvedores do Bluecoin Core</translation>
+        <source>Copyright (C) 2019 The Bluecoin Core Developers</source>
+        <translation>Todos os direitos reservados (C) 2019 aos Desenvolvedores do Bluecoin Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -1,6 +1,6 @@
 // Copyright (c) 2014-2016 The Dash developers
 // Copyright (c) 2016-2017 The PIVX developers
-// Copyright (c) 2018 The Bluecoin developers
+// Copyright (c) 2019 The Bluecoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -59,7 +59,7 @@ using namespace boost;
 #define SPORK_15_NEW_PROTOCOL_ENFORCEMENT_2_DEFAULT 4070908800    //OFF
 #define SPORK_16_ZEROCOIN_MAINTENANCE_MODE_DEFAULT 4070908800     //OFF
 
-#define SPORK_17_POS_ENFORCEMENT_DEFAULT 1537437600 // September 20, 2018 12:00:00 PM GMT+2
+#define SPORK_17_POS_ENFORCEMENT_DEFAULT 1537437600 // September 20, 2019 12:00:00 PM GMT+2
 
 class CSporkMessage;
 class CSporkManager;

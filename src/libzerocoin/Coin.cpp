@@ -11,7 +11,7 @@
  **/
 
 // Copyright (c) 2017 The PIVX developers
-// Copyright (c) 2018 The Bluecoin Core Developers
+// Copyright (c) 2019 The Bluecoin Core Developers
 #include <stdexcept>
 #include <iostream>
 #include "Coin.h"

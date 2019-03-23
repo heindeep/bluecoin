@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2018 The Bluecoin developers
+// Copyright (c) 2019 The Bluecoin developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -571,7 +571,7 @@ std::string LicenseInfo()
            "\n" +
            FormatParagraph(strprintf(_("Copyright (C) 2015-%i The PIVX Core Developers"), COPYRIGHT_YEAR)) + "\n" +
            "\n" +
-           FormatParagraph(strprintf(_("Copyright (C) %i The Bluecoin Core Developers"), "2018")) + "\n" +
+           FormatParagraph(strprintf(_("Copyright (C) %i The Bluecoin Core Developers"), "2019")) + "\n" +
            "\n" + 
            FormatParagraph(_("This is experimental software.")) + "\n" +
            "\n" +
@@ -1674,7 +1674,7 @@ bool AppInit2(boost::thread_group& threadGroup, CScheduler& scheduler)
             LogPrintf("file format is unknown or invalid, please fix it manually\n");
     }
 
-    // Bluecoin to be removed testing 04/08/2018
+    // Bluecoin to be removed testing 04/08/2019
     /*
     uiInterface.InitMessage(_("Loading budget cache..."));
 

@@ -3111,8 +3111,8 @@ https://www.transifex.com/bluecoin-project/bluecoin-project-translations</transl
         <translation>Copyright (C) 2015-%i Разработчики PIVX Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2018 The Bluecoin Core Developers</source>
-        <translation>Copyright (C) 2018 Разработчики Bluecoin Core</translation>
+        <source>Copyright (C) 2019 The Bluecoin Core Developers</source>
+        <translation>Copyright (C) 2019 Разработчики Bluecoin Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
