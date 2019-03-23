@@ -4,7 +4,7 @@
  * @brief      Denomination info for the Zerocoin library.
  *
  * @copyright  Copyright 2017 PIVX Developers
- * @copyright  Copyright 2019 Bluecoin Developers
+ * @copyright  Copyright 2018 Bluecoin Developers
  * @license    This project is released under the MIT license.
  **/
 

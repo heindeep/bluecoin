@@ -29,7 +29,7 @@ packages:
 - "python-setuptools"
 - "fonts-tuffy"
 - "xutils-dev"
-reference_datetime: "2019-03-01 10:00:00"
+reference_datetime: "2018-03-01 10:00:00"
 remotes:
 - "url": "https://github.com/heindeep/bluecoin.git"
   "dir": "bluecoin"

@@ -1,5 +1,5 @@
 // Copyright (c) 2017 The PIVX developers
-// Copyright (c) 2019 The Bluecoin developers
+// Copyright (c) 2018 The Bluecoin developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 #ifndef BLUECOIN_ZEROCOIN_H
