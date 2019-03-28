@@ -47,11 +47,11 @@
 </tbody>
 <tbody>
 	<tr><th>Kickstart Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Miners</th></tr>	
-	<tr><td>Ended</td><td>16 - 9 000</td><td>0.001 BLUE</td><td>0 BLUE</td><td>0.001 BLUE</td></tr>
+	<tr><td>Ongoing</td><td>16 - 9 000</td><td>0.001 BLUE</td><td>0 BLUE</td><td>0.001 BLUE</td></tr>
 </tbody>
 <tbody>
 	<tr><th>POW Presale Phase</th><th>Block Height</th><th>Block Reward</th><th>Masternodes</th><th>Miners</th></tr>	
-	<tr><td>Ongoing</td><td>9 001 - 13 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
+	<tr><td></td><td>9 001 - 13 000</td><td>80.001 BLUE</td><td>80 BLUE</td><td>0.001 BLUE</td></tr>
 </tbody>
 </table>
 
