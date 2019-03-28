@@ -186,7 +186,7 @@ public:
 
         nPoolMaxTransactions = 3;
         strSporkKey = "04e0d865b25de00d27941e8954dcdbe263328c127a1f0a49250af3533830f018701a144c094a805674743ddbf3c5a0292c360ec418c0cf64791fd163ce40c2d36c";
-        strObfuscationPoolDummyAddress = "SffPqR2Dd8Bs1kjXJPmDxDV1aiTNHAeVN2";
+        strObfuscationPoolDummyAddress = "BJ8Hy9M4zaw1YEQZEj8XKZwZfja1CDdWZs";
         nStartMasternodePayments = genesis.nTime + 60 * 60; // 1 hr after genesis 
 
         /** Zerocoin */
@@ -284,7 +284,7 @@ public:
 
         nPoolMaxTransactions = 2;
         strSporkKey = "04bff6b362b7a4bc8f7cbbe2c0666166fded0cd531d0390bcc6e32e42a059a29b5bb3c034a652fbf6d1dfe9f5dabad16fc0a5696eb18167821d35195b78ced58df";
-        strObfuscationPoolDummyAddress = "SffPqR2Dd8Bs1kjXJPmDxDV1aiTNHAeVN2";
+        strObfuscationPoolDummyAddress = "BJ8Hy9M4zaw1YEQZEj8XKZwZfja1CDdWZs";
         nStartMasternodePayments = genesis.nTime + 3600; // 1 hr after genesis
         nBudget_Fee_Confirmations = 3; // Number of confirmations for the finalization fee. 
     }
